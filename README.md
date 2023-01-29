@@ -58,7 +58,7 @@ Server Side Output
 ![output](ser.png)
 
 Client Side Output
-![output](server.png)
+![output](server1.png)
 
 ## RESULT:
 The program is executed succesfully
